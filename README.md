@@ -53,9 +53,7 @@
 
 
 ## Output:
-![image](https://github.com/karthikkrishna16/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/148514663/9ef6de46-e16f-4462-b1a1-6d812f9a1463)
-
-
+![image](https://github.com/karthikkrishna16/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/148514663/bc70f523-855b-4ba0-ab34-777bd7632845)
 
 ### Name: TH KARTHIK KRISHNA
 ### Register Number: 212223240067 
