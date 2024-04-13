@@ -53,6 +53,8 @@
 
 
 ## Output:
+![image](https://github.com/karthikkrishna16/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/148514663/9ef6de46-e16f-4462-b1a1-6d812f9a1463)
+
 
 
 ### Name: TH KARTHIK KRISHNA
